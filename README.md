@@ -6,4 +6,5 @@ Latihan Melakukan Squashing Changes
 * Tahapan Proses
   * Membuka Repository.
   * Membuat Branch.
-  * abcdce
+
+ Code Riview
