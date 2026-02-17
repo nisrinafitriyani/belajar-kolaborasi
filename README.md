@@ -2,3 +2,7 @@
 
 **17 Febuari**  
 Latihan Melakukan Squashing Changes
+
+* Tahapan Proses
+  * Membuka Repository.
+  * Membuat Branch.
